@@ -11,11 +11,13 @@ administration interface in future...
 👉 Adding the goods in demo, will be finish later...
 
 
+
 🧠 HowTo Use It:
 
 👉 Just copy all files to Docker container with MySQL, PHP 8 & Apache/Nginx
 
 ENJOY!
+
 
 
 🧱 How is structured
@@ -24,18 +26,20 @@ ENJOY!
 /guitarshop
   /public
     index.php    → input (index.php).
-  ../uploads     → pictures ✅
+    /uploads     → pictures ✅
   /src           → logics (DB, auth, products)
   /config        → settings
 ```
 
 ⚠️ IMPORTANT:
 
-👉 to browser go only like this /public/index.php
+👉 to browser go only like this http://localhost/guitarshop/public/index.php
 
 the rest is „protected“
 
-🔥 What I have got
+
+
+🔥 What I have got from older version (PHP 5)
 
 ✅finally separated code:
 * DB connection
@@ -43,11 +47,12 @@ the rest is „protected“
 * products
 * config
 
-✅ none duplicit code
+✅ no duplicit code
 
 ✅ visibility
 
 ✅ ready for next extensions of source
+
 
 
 ⚠️ IMPORTANT:
@@ -55,7 +60,7 @@ the rest is „protected“
 👉 MUST go in browser:
 http://localhost/guitarshop/public/index.php
 
-NOT:
+NOT!:
 
 http://localhost/guitarshop/index.php
 
