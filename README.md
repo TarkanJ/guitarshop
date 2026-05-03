@@ -11,13 +11,11 @@ administration interface in future...
 👉 Adding the goods in demo, will be finish later...
 
 
-
 🧠 HowTo Use It:
 
 👉 Just copy all files to Docker container with MySQL, PHP 8 & Apache/Nginx
 
 ENJOY!
-
 
 
 🧱 How is structured
@@ -38,7 +36,6 @@ ENJOY!
 the rest is „protected“
 
 
-
 🔥 What I have got from older version (PHP 5)
 
 ✅finally separated code:
@@ -52,7 +49,6 @@ the rest is „protected“
 ✅ visibility
 
 ✅ ready for next extensions of source
-
 
 
 ⚠️ IMPORTANT:
