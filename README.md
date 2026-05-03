@@ -10,7 +10,13 @@ administration interface in future...
 
 👉 Adding the goods in demo, will be finish later...
 
-🧠HowTo Use
+
+🧠 HowTo Use It:
+
+👉 Just copy all files to Docker container with MySQL, PHP 8 & Apache/Nginx
+
+ENJOY!
+
 
 🧱 How is structured
 
@@ -22,20 +28,25 @@ administration interface in future...
   /uploads       → pictures
 ```
 
-👉 IMPORTANT:
+⚠️ IMPORTANT:
 
-to browser go only like this /public/index.php
+👉 to browser go only like this /public/index.php
+
 the rest is „protected“
 
-🔥 We get finally
-✅ separated code:
-DB connection
-login logics
-products
-config
+🔥 What I have got
+✅finally separated code:
+* DB connection
+* login logics
+* products
+* config
+
 ✅ none duplicit code
+
 ✅ visibility
+
 ✅ ready for next extensions of source
+
 
 ⚠️ IMPORTANT:
 
@@ -44,5 +55,5 @@ http://localhost/guitarshop/public/index.php
 
 NOT:
 
-/guitarshop/index.php
+http://localhost/guitarshop/index.php
 
