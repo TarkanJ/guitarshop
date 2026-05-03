@@ -13,7 +13,12 @@ administration interface in future...
 
 🧠 HowTo Use It:
 
-👉 Just copy all files to Docker container with MySQL, PHP 8 & Apache/Nginx
+👉 Copy all files to Docker container with MySQL, PHP 8 & Apache/Nginx
+
+* recommended Docker container:  https://github.com/TarkanJ/Docker.git
+
+* create user "martin" with pass "martin" and database "guitarshop"
+
 
 ENJOY!
 
@@ -59,4 +64,3 @@ http://localhost/guitarshop/public/index.php
 NOT!:
 
 http://localhost/guitarshop/index.php
-
