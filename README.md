@@ -23,7 +23,7 @@ administration interface in future...
 ENJOY!
 
 
-🧱 How is structured
+🧱 How is project structured
 
 ```
 /guitarshop
