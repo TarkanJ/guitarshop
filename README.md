@@ -22,10 +22,11 @@ ENJOY!
 
 ```
 /guitarshop
-  /public        → input (index.php)
+  /public
+    index.php    → input (index.php).
+  ../uploads     → pictures ✅
   /src           → logics (DB, auth, products)
   /config        → settings
-  /uploads       → pictures
 ```
 
 ⚠️ IMPORTANT:
@@ -35,6 +36,7 @@ ENJOY!
 the rest is „protected“
 
 🔥 What I have got
+
 ✅finally separated code:
 * DB connection
 * login logics
