@@ -1,2 +1,2 @@
 # guitarshop
-guitarshop e-shop for musicians
+e-shop for musicians
