@@ -1,4 +1,4 @@
-# 🎸 guitarshop 🎸
+# 🎸 guitarshop
 e-shop for musicians
 
 👉 Some of pictures do not match to databases in folder "uploads".
