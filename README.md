@@ -43,7 +43,7 @@ the rest is „protected“
 
 🔥 What I have got from older version (PHP 5)
 
-✅finally separated code:
+✅ finally separated code:
 * DB connection
 * login logics
 * products
